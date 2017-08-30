@@ -8,7 +8,8 @@ public class App {
 
 	App(String name, String addr) {
 		this.name = name;
-		this.addr = addr;
+		this.addr = addr;  
+		// test.
 	}
 
 	public static void main(String args[]) {
